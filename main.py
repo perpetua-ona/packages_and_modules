@@ -8,3 +8,6 @@ name = "Daniel"
 
 if name == "Daniel":
     print("Hello Daniel")
+
+print(name)
+
